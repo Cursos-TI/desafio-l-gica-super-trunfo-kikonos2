@@ -8,6 +8,30 @@
 int main() {
     printf("Desafio Super Trunfo!\n");
     
+    int main (){
+            //carta1
+        char estado;
+        char codigo [4];
+        char nomedaCidade[50]; //Jaraguá do Sul
+        int numero_habitantes; //200.000
+        float areaTotal;
+        float pib;
+        int pontos_turisticos;
+
+        printf("Digite o estado: \n");
+        scanf("%s",&estado);
+
+        printf("Digite o codigo: \n");
+        scanf("%s",&codigo);
+        
+        printf("Digite o nomedaCidade: \n");
+        scanf("%s",&nomedaCidade);
+        
+        printf("Digite o o numero_habitantes: \n");
+        scanf("%s",&numero_habitantes);
+
+
+    }
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
